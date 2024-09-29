@@ -1,4 +1,5 @@
 ## Hi there 👋
+We're Kerosene Labs, a group of like-minded individuals solving problems we find interesting. 
 
 <!--
 
